@@ -96,7 +96,7 @@ Open `problems.ipynb` in VS Code or Jupyter and run the cells in sequence.
 ### Script
 Run the pipeline locally with:
 
-```bash
+
 python faang.py
 
 ### Script
