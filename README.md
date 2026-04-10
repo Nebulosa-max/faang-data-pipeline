@@ -101,12 +101,19 @@ python faang.py
 
 ### Script
 
+## Script
+
 Run the pipeline locally with:
 
 ```bash
 python faang.py
+```
 
+If needed on some systems:
+
+```bash
 python3 faang.py
+```
 
 ## Requirements
 
@@ -116,9 +123,12 @@ This project uses:
 - yfinance
 - pandas
 - matplotlib
-- Install the required packages with:
 
+Install the required packages with:
+
+```bash
 pip install yfinance pandas matplotlib
+```
 
 ## Research and Design Choices
 This project was informed by research into Python-based data workflows, financial data retrieval, and visualisation tools.
